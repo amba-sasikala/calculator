@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 
 1. What does the calculator program do?<br>
 This program is like a digital calculator you might use on a computer or a smartphone.
@@ -24,5 +24,5 @@ The program also checks for certain things, like if you're trying to divide by z
 8. What can you do with this program?<br>
 It's a simple calculator, so you can use it to quickly do basic math operations without the need for a physical calculator.
 
-NOTE :
-This is a basic example. You could expand on this by adding more features or making the interface more user-friendly if you wanted to create a more advanced calculator program.
+> [!NOTE]
+> This is a basic example. You could expand on this by adding more features or making the interface more user-friendly if you wanted to create a more advanced calculator program.
