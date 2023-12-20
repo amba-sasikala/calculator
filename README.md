@@ -1,27 +1,27 @@
 # calculator
 
-1. What does the calculator program do?
+1. What does the calculator program do?<br>
 This program is like a digital calculator you might use on a computer or a smartphone.
 
-2. How do you use it?
+2. How do you use it?<br>
 When you run the program, it will show you a menu with options like addition, subtraction, multiplication, division, and an option to exit.
 
-3. How to choose an operation?
+3. How to choose an operation?<br>
 You enter a number to choose the operation you want to perform. For example, you might enter '1' for addition, '2' for subtraction, and so on.
 
-4. What numbers can you use?
+4. What numbers can you use?<br>
 After choosing an operation, the program asks you to enter two numbers. These are the numbers you want to do the math on.
 
-5. What happens after you enter the numbers?
+5. What happens after you enter the numbers?<br>
 The program then performs the chosen operation (like adding or subtracting) on the numbers you entered.
 
-6. Is there an option to stop using the calculator?
+6. Is there an option to stop using the calculator?<br>
 Yes, there is! If you enter '5', the program will stop running, and you'll see a goodbye message.
 
-7. Any limitations?
+7. Any limitations?<br>
 The program also checks for certain things, like if you're trying to divide by zero (which is not allowed in math). If you try to do that, it will tell you it's not allowed and ask you to enter a different number.
 
-8. What can you do with this program?
+8. What can you do with this program?<br>
 It's a simple calculator, so you can use it to quickly do basic math operations without the need for a physical calculator.
 
 NOTE :
